@@ -1,0 +1,93 @@
+
+.LogoLine {
+    background-image: url(../img/pattern.png);
+    background-color: rgb(119, 160, 214); /* Colore di sfondo celeste */
+    align-items: center; /* Allinea verticalmente l'immagine del logo */
+    padding-left: 35px; 
+    width: auto;
+    height: 150px;
+}
+
+
+#Logo {
+    display: flex;
+    margin-left: 0;
+    width: 400px;
+    height: 200px;
+    bottom: 790px;
+}
+
+
+.Title {
+    font-size: 50px;
+    font-family: bold;
+    margin-bottom: 0px;
+    margin-top: 35px;
+}
+
+.info {
+    font-size: 22px;
+    color: grey;
+    margin-top: 0;
+}
+
+.highlightBG {
+    background-color: yellow; /* Colore di sfondo evidenziato */
+}
+
+.highlight{
+    color: rgb(0, 132, 255);
+}
+
+.article{
+        font-size: 20px;
+        color: black;
+}
+
+
+table {
+    width: 100%; /* Larghezza al 100% della finestra del browser */
+    height: 200px;
+    border-collapse: collapse;
+    font-family: sans-serif;
+    font-size: 1rem;
+    letter-spacing: 1px;
+  }
+
+
+thead {
+  background-color: rgb(0, 140, 221);
+  color: white;
+}
+
+
+.tableblue {
+    background-color: rgba(55, 224, 224, 0.322);
+}
+
+.sinistra{
+    text-align: left;
+}
+
+
+.articolo1{
+    background-image: url(../img/monitor.jpg);
+    height: 200px;
+    bottom: 200px;
+    width: 300px;
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    font-family: bold;
+}
+
+.articolo2{
+    background-image: url(../img/graph.jpg);
+    height: 200px;
+    bottom: 200px;
+    width: 300px;
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    font-family: bold;
+}
